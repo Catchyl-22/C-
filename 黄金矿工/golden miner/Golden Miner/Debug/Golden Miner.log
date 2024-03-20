@@ -1,0 +1,14 @@
+﻿  draw.cpp
+  game.cpp
+  Golden Miner.cpp
+  Hook.cpp
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(42,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(43,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(52,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(53,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(70,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(71,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(85,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yinxiangdemacbook\Desktop\golden 1\Golden Miner\Hook.cpp(153,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Golden Miner.vcxproj -> C:\Users\yinxiangdemacbook\Desktop\golden 1\Debug\Golden Miner.exe
